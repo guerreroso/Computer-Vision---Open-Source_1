@@ -1,3 +1,9 @@
+### There is Updated code here from DIGITAL COGNITION - you may want to FORK this also Cheers !!
+FOR THIS == https://github.com/RohitDhankar/DigitalCognition
+FOR THIS == https://github.com/RohitDhankar/DigitalCognition
+FOR THIS == https://github.com/RohitDhankar/DigitalCognition
+
+
 ### Computer Vision with Artificial Neural Networks a Primer 
 #
 ### Research Notes Collated by : Rohit Dhankar
